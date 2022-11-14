@@ -76,7 +76,6 @@ input {
   background-color: #171b70;
   color:aliceblue;
 }
- 
 
 @media (prefers-color-scheme: light) {
   :root {
